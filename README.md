@@ -9,4 +9,5 @@ Function parameters:
   Program plots the object's trajectory along with useful values at maximum
   height and point of impact.
   
-  
+Example: 
+![Screenshot 2022-01-10 12 24 41 PM](https://user-images.githubusercontent.com/80725783/148811243-b56faafa-9dc0-4da7-b5e6-613dacab1a3f.png)
