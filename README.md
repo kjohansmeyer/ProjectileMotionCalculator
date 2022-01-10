@@ -1,5 +1,6 @@
-# ProjectileMotionCalculator
-Easy-to-use Python function to calculate and visualize trajectory for 2D projectile motion physics
+# Projectile Motion Calculator
+
+Description: Easy-to-use Python function to calculate and visualize trajectory for 2D projectile motion physics
 
 Function parameters:
   v0 - initial velocity (meters per second)
