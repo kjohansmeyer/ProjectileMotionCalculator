@@ -4,11 +4,12 @@ Description: Easy-to-use Python function to calculate and visualize trajectory f
 
 Function parameters:
   v0 - initial velocity (meters per second)
+  
   thetaD - angle of launch (degrees) measured from the horizontal, must be on interval [-90,90]
+  
   initialHeight - initial height of launch (meters) [or "height of cliff"]
   
-  Program plots the object's trajectory along with useful values at maximum
-  height and point of impact.
+  Program plots the object's trajectory along with useful values at maximum height and point of impact.
   
 Example: 
 
